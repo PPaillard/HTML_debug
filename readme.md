@@ -2,6 +2,8 @@
 
 Aide toi de l'inspecteur de code pour résoudre les problèmes HTML. Les fichiers sources peuvent aussi être utilisés.
 
+[Tu peux télécharger l'exercice ici!](https://github.com/PPaillard/HTML_debug/archive/refs/heads/main.zip)
+
 Tu peux trouver le résultat final ici :
 
 [résultat final](./assets/images/solution.png)
